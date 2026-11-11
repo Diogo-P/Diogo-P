@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Diogo! 🚀
 
-<!--
-**Diogo-P/Diogo-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação** e desenvolvedor focado na interseção entre **Arquitetura de Software (Backend)**, **Cibersegurança (AppSec)** e **Sistemas de Baixo Nível**. Construo sistemas corporativos robustos, audito aplicações e otimizo algoritmos diretamente no nível de memória.
 
-Here are some ideas to get you started:
+### 🎯 O que você vai encontrar por aqui:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   ⚙️ **Engenharia de Software & Backend:** APIs escaláveis, modelagem de dados complexa e sistemas de gestão reais (como aplicações WebGIS e ERPs financeiros).
+*   🛡️ **Cibersegurança & AppSec:** Testes de segurança, automação em Python e repositórios "vulnerable by design" demonstrando o ciclo de desenvolvimento seguro.
+*   🧠 **Baixo Nível & Fundamentos:** Otimização extrema em C/C++, manipulação de ponteiros, sistemas embarcados e algoritmos avançados de grafos (Dijkstra, A*).
+
+### 🔭 O que estou construindo no momento:
+*   **[ChronoRoute]**: Uma aplicação WebGIS corporativa para otimização de rotas usando ASP.NET Core C#, PostgreSQL/PostGIS e Leaflet.
+*   **[SistemaCobranca]**: Sistema desktop/web de gestão e faturamento estruturado em C# .NET.
+*   **Segurança Ofensiva**: Mapeamento de vulnerabilidades web e interceptação de requisições HTTP (Burp Suite) voltados para AppSec.
+
+### 🛠️ Minha Stack Tecnológica:
+
+**Backend & Baixo Nível:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Scripting, Dados & Segurança:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📫 Como entrar em contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_AQUI)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:COLOQUE_SEU_EMAIL_AQUI)
