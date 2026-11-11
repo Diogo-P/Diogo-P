@@ -8,11 +8,6 @@ Sou estudante de **Ciência da Computação** e desenvolvedor focado na interse�
 *   🛡️ **Cibersegurança & AppSec:** Testes de segurança, automação em Python e repositórios "vulnerable by design" demonstrando o ciclo de desenvolvimento seguro.
 *   🧠 **Baixo Nível & Fundamentos:** Otimização extrema em C/C++, manipulação de ponteiros, sistemas embarcados e algoritmos avançados de grafos (Dijkstra, A*).
 
-### 🔭 O que estou construindo no momento:
-*   **[ChronoRoute]**: Uma aplicação WebGIS corporativa para otimização de rotas usando ASP.NET Core C#, PostgreSQL/PostGIS e Leaflet.
-*   **[SistemaCobranca]**: Sistema desktop/web de gestão e faturamento estruturado em C# .NET.
-*   **Segurança Ofensiva**: Mapeamento de vulnerabilidades web e interceptação de requisições HTTP (Burp Suite) voltados para AppSec.
-
 ### 🛠️ Minha Stack Tecnológica:
 
 **Backend & Baixo Nível:**
@@ -27,7 +22,3 @@ Sou estudante de **Ciência da Computação** e desenvolvedor focado na interse�
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 📫 Como entrar em contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:COLOQUE_SEU_EMAIL_AQUI)
